@@ -1,7 +1,8 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
 
 ---
-
+## NAME:k.senthamizh selvan
+## REG NO:212223235001
 ## Aim
 
 To implement identity and access management (IAM) in AWS to securely control access to resources by creating and managing IAM users, groups, roles, and policies for team collaboration.
